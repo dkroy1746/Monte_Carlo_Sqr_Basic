@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1krWggGEhp8Irn1dd65oP49mzyPzti6k2
 """
 
-#!pip install numpy
+#
 #!pip install matplotlib
 
 import numpy as np
